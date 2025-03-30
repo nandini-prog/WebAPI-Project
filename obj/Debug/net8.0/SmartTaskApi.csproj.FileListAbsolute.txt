@@ -170,3 +170,8 @@ C:\Users\Admin\Desktop\Asp.Net projects\SmartTaskApi\obj\Debug\net8.0\refint\Sma
 C:\Users\Admin\Desktop\Asp.Net projects\SmartTaskApi\obj\Debug\net8.0\SmartTaskApi.pdb
 C:\Users\Admin\Desktop\Asp.Net projects\SmartTaskApi\obj\Debug\net8.0\SmartTaskApi.genruntimeconfig.cache
 C:\Users\Admin\Desktop\Asp.Net projects\SmartTaskApi\obj\Debug\net8.0\ref\SmartTaskApi.dll
+C:\Users\Admin\Desktop\Asp.Net projects\SmartTaskApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Admin\Desktop\Asp.Net projects\SmartTaskApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Desktop\Asp.Net projects\SmartTaskApi\obj\Debug\net8.0\SmartTaskApi.sourcelink.json
+C:\Users\Admin\Desktop\Asp.Net projects\SmartTaskApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Admin\Desktop\Asp.Net projects\SmartTaskApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

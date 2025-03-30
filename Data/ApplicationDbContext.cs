@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using SmartTaskApi.Model;
 using Task = SmartTaskApi.Models.Task;
 
 namespace SmartTaskApi.Data
@@ -10,5 +11,6 @@ namespace SmartTaskApi.Data
 
         // Registering the Task entity
         public DbSet<Task> Tasks { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }
